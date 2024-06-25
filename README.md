@@ -4,4 +4,4 @@ I make stuff that is not supposed to be made using LOVE2D<br>
 :P<br>
 My current primary project:
 <a href=https://github.com/zalanwastaken/typer>Typer</a>
-![mylogo](https://i.postimg.cc/L8WYnfsY/name.png)
+![name.png](https://postimg.cc/fVxTPVmD)
