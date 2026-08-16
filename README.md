@@ -6,7 +6,7 @@
 
 ## 🧠 about me
 
-- 💻 programmer who lives in Lua + LOVE2D
+- 💻 programmer who lives in questionable projects
 - 🧪 builds frameworks, libraries, and “why does this even exist” systems
 - 🐧 Arch Linux user (yes, i enjoy pain apparently)
 - ⚙️ OSS enjoyer for ~5 years
