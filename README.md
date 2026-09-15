@@ -2,6 +2,9 @@
 
 > i break systems until they behave >w<
 
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=zalanwastaken&theme=gruvbox" alt="General stats badge"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zalanwastaken&theme=gruvbox" alt="Profile details badge"/>
+
 ---
 
 ## 🧠 about me
