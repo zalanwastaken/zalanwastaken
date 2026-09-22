@@ -38,7 +38,7 @@ i don’t just use software. i disassemble it emotionally.
 
 ## 🚀 current brainrot projects
 - **guified** – UI framework for LOVE2D because buttons are too mainstream
-- **HellSpawnOS** – OS that will probably compile... eventually
+- **Ketone** – Cursed x86_64 OS from scratch
 
 ---
 
